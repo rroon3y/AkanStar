@@ -1,0 +1,20 @@
+body{
+    font-family: cursive;
+    background-color: thistle;
+    text-align: center;
+    padding: 20px;
+}
+
+form {
+background-color: rgba(135, 79, 182, 0.568);
+padding: 20px;
+border-radius: 10px;
+display: inline-block;
+
+}
+
+input{
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+}
