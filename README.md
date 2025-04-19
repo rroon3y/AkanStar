@@ -5,8 +5,11 @@
 ## Description
 AkanStar is a simple and fun web app that helps you find out which day of the week you were born and assigns you an Akan name based on that day! The app uses your birthdate and gender to determine the corresponding Akan name from Ghanaian culture. Whether you're curious about the names or just having fun, this app will give you the answer with just a few clicks!
 
-## Live Site  
-Check it out here 👉 [https://akan-star.vercel.app/](https://akan-star.vercel.app/)
+
+## Project Links
+
+- 🔗 [Live Site on Vercel](https://akan-star.vercel.app/)
+- 📁 [Source Code on GitHub](https://github.com/your-username/your-repo-name)
 
 ## Setup/Installation Requirements
 1. Download or clone the repository to your local machine.
